@@ -27,7 +27,7 @@ Class FileHandler.java
 
 Class MainFrame.java  
 deskripsi: berisi tampilan GUI yang dapat dijalankan.
-- void loadData(): merefresh tampilan saat aksi (create, update, delete, clear) dilakukan.
+- void loadData(): merefresh tampilan saat aksi (create, update, delete) dilakukan.
 - void tambahData(): menambahkan data yang sudah diketik di panel input.
 - void updateData(): meng-edit data yang dipilih.
 - void deleteData(): menghapus data yang dipilih.
