@@ -4,7 +4,7 @@ Deskripsi:
 Membuat program Create, Read, Update, Delete (CRUD) basis Java Graphical User Interface (GUI)
 untuk data siswa yang disimpan pada file siswa.csv.
 
-Anggota :
+Anggota Kelompok 6:
 1. Hamam Yusuf Abdulloh
 2. Abraham Samullson Siregar
 3. Ridho Alfarizi
