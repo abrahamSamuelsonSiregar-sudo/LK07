@@ -6,7 +6,7 @@ untuk data siswa yang disimpan pada file siswa.csv.
 
 Anggota Kelompok 6:
 1. Hamam Yusuf Abdulloh
-2. Abraham Samullson Siregar
+2. Abraham Samuelson Siregar
 3. Ridho Alfarizi
 4. Muhammad Dzaky Nuril Mubin
 5. Hanif Maulana
