@@ -25,7 +25,7 @@ Class FileHandler.java
   ada, buat file bernama "siswa.csv".
 - static void writeFile(List<Siswa> list): memasukkan data ke file "siswa.csv".
 
-Class MainFrame.java
+Class MainFrame.java  
 deskripsi: berisi tampilan GUI yang dapat dijalankan.
 - void loadData(): merefresh tampilan saat aksi (create, update, delete, clear) dilakukan.
 - void tambahData(): menambahkan data yang sudah diketik di panel input.
